@@ -8279,10 +8279,10 @@
           "TeamReg": "ARCMCTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         },
         {
           "Disc": "ARC",
@@ -35865,10 +35865,10 @@
           "TeamReg": "ARCMCTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         },
         {
           "Disc": "ARC",
@@ -140201,10 +140201,10 @@
           "TeamReg": "ARCWRTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         },
         {
           "Disc": "ARC",
@@ -165280,10 +165280,10 @@
           "TeamReg": "ARCXRTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -194157,10 +194157,10 @@
           "TeamReg": "ARCMRTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_SILVER"
+          "Result": ""
         },
         {
           "Disc": "ARC",
@@ -218172,10 +218172,10 @@
           "TeamReg": "ATHX4X400M-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "OK",
-          "Result": "3:14.46",
-          "Medal": "ME_SILVER"
+          "Result": "3:14.46"
         }
       ],
       "schedule": [
@@ -221038,10 +221038,10 @@
           "TeamReg": "ATHX4X400M-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "OK",
-          "Result": "3:14.46",
-          "Medal": "ME_SILVER"
+          "Result": "3:14.46"
         }
       ],
       "schedule": [
@@ -225908,10 +225908,10 @@
           "TeamReg": "ATHX4X100M-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "41.06"
+          "Result": "41.06",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -243505,10 +243505,10 @@
           "TeamReg": "BDMMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -254090,10 +254090,10 @@
           "Desc": "Men's 90kg",
           "DescS": "Men's 90kg",
           "isMember": false,
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -281890,10 +281890,10 @@
           "TeamReg": "CKTWTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -286296,10 +286296,10 @@
           "TeamReg": "GLFWTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -559320,10 +559320,10 @@
           "Desc": "25m Pistol Women Individual",
           "DescS": "25m Pistol Women Individual",
           "isMember": false,
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "38"
+          "Result": "38",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -605427,10 +605427,10 @@
           "Desc": "Men's Singles",
           "DescS": "Men's Singles",
           "isMember": false,
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         },
         {
           "Disc": "TST",
@@ -612034,10 +612034,10 @@
           "Desc": "Mixed Doubles",
           "DescS": "Mixed Doubles",
           "isMember": false,
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -635271,10 +635271,10 @@
           "Desc": "Men's Greco-Roman 87kg",
           "DescS": "Men's Greco-Roman 87kg",
           "isMember": false,
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
