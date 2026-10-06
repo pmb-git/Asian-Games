@@ -140224,10 +140224,10 @@
           "TeamReg": "ARCXRTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -218589,10 +218589,10 @@
           "Desc": "Men's 1500m",
           "DescS": "Men's 1500m",
           "isMember": false,
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "OK",
-          "Result": "3:36.72"
+          "Result": "3:36.72",
+          "Medal": "ME_SILVER"
         },
         {
           "Disc": "ATH",
@@ -223381,10 +223381,10 @@
           "TeamReg": "ATHX4X100M-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "41.06"
+          "Result": "41.06",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -237963,10 +237963,10 @@
           "TeamReg": "BDMMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -614000,10 +614000,10 @@
           "TeamReg": "TTEXDOUBLES----IND01",
           "TeamOrg": "IND",
           "TeamName": "SHAH Manush/CHITALE Diya",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
