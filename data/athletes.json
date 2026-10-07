@@ -219959,20 +219959,6 @@
             "Substitute": false
           },
           {
-            "Reg": "4788190",
-            "Org": "IND",
-            "Gender": "M",
-            "Order": 1,
-            "Bib": "1038",
-            "Name": "THEKKINALIL Manu",
-            "BirthDateRaw": "2001-10-17",
-            "Position": "",
-            "PosDesc": "",
-            "Function": "AA01",
-            "FuncDesc": "Athlete",
-            "Substitute": false
-          },
-          {
             "Reg": "15776637",
             "Org": "IND",
             "Gender": "M",
@@ -219980,6 +219966,20 @@
             "Bib": "1037",
             "Name": "KUMAR Jay",
             "BirthDateRaw": "2006-06-10",
+            "Position": "",
+            "PosDesc": "",
+            "Function": "AA01",
+            "FuncDesc": "Athlete",
+            "Substitute": false
+          },
+          {
+            "Reg": "4788190",
+            "Org": "IND",
+            "Gender": "M",
+            "Order": 1,
+            "Bib": "1038",
+            "Name": "THEKKINALIL Manu",
+            "BirthDateRaw": "2001-10-17",
             "Position": "",
             "PosDesc": "",
             "Function": "AA01",
@@ -220699,10 +220699,10 @@
           "TeamReg": "ATHX4X400M-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "OK",
-          "Result": "3:14.46"
+          "Result": "3:14.46",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -224539,20 +224539,6 @@
             "Substitute": false
           },
           {
-            "Reg": "16254907",
-            "Org": "IND",
-            "Gender": "W",
-            "Order": 2,
-            "Bib": "1048",
-            "Name": "SATHYANARAYANA Sneha Shanuvali",
-            "BirthDateRaw": "1998-03-27",
-            "Position": "",
-            "PosDesc": "",
-            "Function": "AA01",
-            "FuncDesc": "Athlete",
-            "Substitute": false
-          },
-          {
             "Reg": "1243711",
             "Org": "IND",
             "Gender": "W",
@@ -224560,6 +224546,20 @@
             "Bib": "1047",
             "Name": "RAJARAJAN Abinaya",
             "BirthDateRaw": "2006-11-21",
+            "Position": "",
+            "PosDesc": "",
+            "Function": "AA01",
+            "FuncDesc": "Athlete",
+            "Substitute": false
+          },
+          {
+            "Reg": "16254907",
+            "Org": "IND",
+            "Gender": "W",
+            "Order": 2,
+            "Bib": "1048",
+            "Name": "SATHYANARAYANA Sneha Shanuvali",
+            "BirthDateRaw": "1998-03-27",
             "Position": "",
             "PosDesc": "",
             "Function": "AA01",
@@ -225249,10 +225249,10 @@
           "TeamReg": "ATHX4X100M-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "41.06",
-          "Medal": "ME_BRONZE"
+          "Result": "41.06"
         }
       ],
       "schedule": [
@@ -237963,10 +237963,10 @@
           "TeamReg": "BDMMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -247813,10 +247813,10 @@
           "TeamReg": "BDMMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -285052,10 +285052,10 @@
           "TeamReg": "GLFWTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "3",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_SILVER"
+          "Result": ""
         }
       ],
       "schedule": [
