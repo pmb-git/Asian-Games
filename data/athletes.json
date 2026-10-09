@@ -103811,10 +103811,10 @@
           "TeamReg": "ARCWRTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         },
         {
           "Disc": "ARC",
@@ -217808,10 +217808,10 @@
           "Desc": "Women's 400m",
           "DescS": "Women's 400m",
           "isMember": false,
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "53.21"
+          "Result": "53.21",
+          "Medal": "ME_BRONZE"
         },
         {
           "Disc": "ATH",
@@ -223792,10 +223792,10 @@
           "Desc": "Women's 3000m Steeplechase",
           "DescS": "Women's 3000m Steeplechase",
           "isMember": false,
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "9:08.67",
-          "Medal": "ME_BRONZE"
+          "Result": "9:08.67"
         },
         {
           "Disc": "ATH",
@@ -225249,10 +225249,10 @@
           "TeamReg": "ATHX4X100M-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "41.06",
-          "Medal": "ME_BRONZE"
+          "Result": "41.06"
         }
       ],
       "schedule": [
@@ -619745,10 +619745,10 @@
           "TeamReg": "TTEXDOUBLES----IND01",
           "TeamOrg": "IND",
           "TeamName": "SHAH Manush/CHITALE Diya",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -629752,10 +629752,10 @@
           "Desc": "Men's Greco-Roman 97kg",
           "DescS": "Men's Greco-Roman 97kg",
           "isMember": false,
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_SILVER"
+          "Result": ""
         }
       ],
       "schedule": [
