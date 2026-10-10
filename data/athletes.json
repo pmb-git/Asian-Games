@@ -8302,10 +8302,10 @@
           "TeamReg": "ARCXCTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -16592,10 +16592,10 @@
           "TeamReg": "ARCMCTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         },
         {
           "Disc": "ARC",
@@ -16615,10 +16615,10 @@
           "TeamReg": "ARCXCTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -35842,10 +35842,10 @@
           "Desc": "Compound Men's Individual",
           "DescS": "Compound Men's Individual",
           "isMember": false,
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         },
         {
           "Disc": "ARC",
@@ -35888,10 +35888,10 @@
           "TeamReg": "ARCXCTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -91767,10 +91767,10 @@
           "TeamReg": "ARCWCTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         },
         {
           "Disc": "ARC",
@@ -103834,10 +103834,10 @@
           "TeamReg": "ARCXRTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -132995,10 +132995,10 @@
           "TeamReg": "ARCWRTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         },
         {
           "Disc": "ARC",
@@ -140224,10 +140224,10 @@
           "TeamReg": "ARCXRTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -172148,10 +172148,10 @@
           "TeamReg": "ARCMRTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         },
         {
           "Disc": "ARC",
@@ -172171,10 +172171,10 @@
           "TeamReg": "ARCXRTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_SILVER"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -217477,10 +217477,10 @@
           "TeamReg": "ATHW4X400M-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "OK",
-          "Result": "3:29.69"
+          "Result": "3:29.69",
+          "Medal": "ME_GOLD"
         },
         {
           "Disc": "ATH",
@@ -223792,10 +223792,10 @@
           "Desc": "Women's 3000m Steeplechase",
           "DescS": "Women's 3000m Steeplechase",
           "isMember": false,
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "9:08.67"
+          "Result": "9:08.67",
+          "Medal": "ME_BRONZE"
         },
         {
           "Disc": "ATH",
@@ -225908,10 +225908,10 @@
           "TeamReg": "ATHX4X100M-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "41.06"
+          "Result": "41.06",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -233251,10 +233251,10 @@
           "TeamReg": "BDMMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -235349,7 +235349,2564 @@
         "event": "Men's Team"
       }
     ],
-    "bio_data": null
+    "bio_data": {
+      "participant": {
+        "Reg": "12911698",
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "hasMembers": false,
+        "Org": "IND",
+        "OrgDesc": "India",
+        "Type": "A",
+        "Gender": "M",
+        "BirthDateRaw": "2005-05-03",
+        "Name": "SHETTY Ayush",
+        "NameS": "SHETTY A",
+        "GivenName": "Ayush",
+        "FamilyName": "SHETTY",
+        "IFId": "",
+        "Height": null,
+        "Weight": null
+      },
+      "entries": [
+        {
+          "Disc": "BDM",
+          "Reg": "12911698",
+          "EvKey": "M.SINGLES-----------",
+          "Desc": "Men's Singles",
+          "DescS": "Men's Singles",
+          "isMember": false,
+          "Rank": "9",
+          "IRM": "OK",
+          "Result": ""
+        },
+        {
+          "Disc": "BDM",
+          "Reg": "12911698",
+          "EvKey": "M.TEAM--------------",
+          "Desc": "Men's Team",
+          "DescS": "Men's Team",
+          "isMember": true,
+          "TeamReg": "BDMMTEAM-------IND01",
+          "TeamOrg": "IND",
+          "TeamName": "India",
+          "Rank": "3",
+          "IRM": "OK",
+          "Result": "",
+          "Medal": "ME_BRONZE"
+        }
+      ],
+      "schedule": [
+        {
+          "Orgs": [
+            "BAN",
+            "IND"
+          ],
+          "IsPhase": false,
+          "ResCode": "M.TEAM--------------.8FNL.00050000",
+          "ShowLink": true,
+          "Disc": "BDM",
+          "DiscDesc": "Badminton",
+          "Key": "M.TEAM--------------.8FNL.00050000",
+          "isH2H": true,
+          "Type": "T",
+          "Medal": "",
+          "Status": "OFFICIAL",
+          "StatusDesc": "Official",
+          "DateTimeRaw": "2026-09-21T15:00:00+09:00",
+          "HideStartDate": false,
+          "Estimated": false,
+          "EstText": "",
+          "HideLocation": false,
+          "Venue": "IMG",
+          "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+          "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+          "Loc": "003",
+          "LocDesc": "Court 3",
+          "LocDescS": "Court 3",
+          "Event": "M.TEAM--------------",
+          "EventDesc": "Men's Team",
+          "Phase": "M.TEAM--------------.8FNL",
+          "PhaseOrder": 4,
+          "PhaseDesc": "Men's Team 1st Round",
+          "PhaseDescS": "Men's Team R1",
+          "PhaseDescA": "1st Round",
+          "UnitDesc": "Men's Team 1st Round Tie 5",
+          "UnitDescS": "Men's Team R1 Match  5",
+          "UnitDescA": "Tie 5",
+          "EndDateTimeRaw": "",
+          "ActualEndDateTimeRaw": "",
+          "UnitNum": "1",
+          "IsLive": false,
+          "ShowResults": true,
+          "Periods": [
+            {
+              "Order": 1,
+              "Desc": "Game 1",
+              "DescS": "G1"
+            },
+            {
+              "Order": 2,
+              "Desc": "Game 2",
+              "DescS": "G2"
+            },
+            {
+              "Order": 3,
+              "Desc": "Game 3",
+              "DescS": "G3"
+            }
+          ],
+          "Home": {
+            "Org": "BAN",
+            "Reg": "BDMMTEAM-------BAN01",
+            "Name": "Bangladesh",
+            "Result": "0",
+            "Winner": false,
+            "HasData": true,
+            "NameS": "Bangladesh",
+            "Medal": "",
+            "Members": [
+              {
+                "Org": "BAN",
+                "Bib": "",
+                "Name": "OHIDUL Moajjam Hossain",
+                "NameS": "OHIDUL Moajjam Hossain",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "BAN",
+                "Bib": "",
+                "Name": "SINGHA Gourab",
+                "NameS": "SINGHA Gourab",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "BAN",
+                "Bib": "",
+                "Name": "JUMAR Al Amin",
+                "NameS": "JUMAR Al Amin",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "BAN",
+                "Bib": "",
+                "Name": "JAMAN Ayman Ibn",
+                "NameS": "JAMAN Ayman Ibn",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              }
+            ],
+            "Splits": [],
+            "Extensions": [
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game1DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game2DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game3DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "RedCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "WorldRanking",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "MemberServer",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "Server",
+                "Pos": 0,
+                "Value": "false",
+                "Extensions": []
+              }
+            ]
+          },
+          "Away": {
+            "Org": "IND",
+            "Reg": "BDMMTEAM-------IND01",
+            "Name": "India",
+            "Result": "3",
+            "Winner": true,
+            "HasData": true,
+            "NameS": "India",
+            "Medal": "",
+            "Members": [
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "KAPILA Dhruv",
+                "NameS": "KAPILA Dhruv",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "HASEENA S. K. Prannoy",
+                "NameS": "HASEENA S. K. Prannoy",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "AMSAKARUNAN Hariharan",
+                "NameS": "AMSAKARUNAN Hariharan",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "SHETTY Ayush",
+                "NameS": "SHETTY Ayush",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "SEN Lakshya",
+                "NameS": "SEN Lakshya",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "KIDAMBI Srikanth",
+                "NameS": "KIDAMBI Srikanth",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "MANNEPALLI Tharun",
+                "NameS": "MANNEPALLI Tharun",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "RANKIREDDY Satwiksairaj",
+                "NameS": "RANKIREDDY Satwiksairaj",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "SHETTY Chirag",
+                "NameS": "SHETTY Chirag",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "MADATHIL R Arjun",
+                "NameS": "MADATHIL R Arjun",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              }
+            ],
+            "Splits": [],
+            "Extensions": [
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game1DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game2DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game3DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "RedCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "WorldRanking",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "MemberServer",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "Server",
+                "Pos": 0,
+                "Value": "false",
+                "Extensions": []
+              }
+            ]
+          },
+          "Extensions": [
+            {
+              "Type": "UNIT_INFO",
+              "Code": "DurationHHMM",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "InfoMatch",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "InfoTeam",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ReceivedDuration",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ResultDetailWinner",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ServerHomeAway",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "SubMatchNum",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "SubunitOrder",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "TeamMatchDuration",
+              "Pos": 0,
+              "Value": "1h34min",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Orgs": [
+            "IND",
+            "JPN"
+          ],
+          "IsPhase": false,
+          "ResCode": "M.TEAM--------------.QFNL.00030000",
+          "ShowLink": true,
+          "Disc": "BDM",
+          "DiscDesc": "Badminton",
+          "Key": "M.TEAM--------------.QFNL.00030000",
+          "isH2H": true,
+          "Type": "T",
+          "Medal": "",
+          "Status": "OFFICIAL",
+          "StatusDesc": "Official",
+          "DateTimeRaw": "2026-09-22T15:00:00+09:00",
+          "HideStartDate": false,
+          "Estimated": false,
+          "EstText": "",
+          "HideLocation": false,
+          "Venue": "IMG",
+          "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+          "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+          "Loc": "002",
+          "LocDesc": "Court 2",
+          "LocDescS": "Court 2",
+          "Event": "M.TEAM--------------",
+          "EventDesc": "Men's Team",
+          "Phase": "M.TEAM--------------.QFNL",
+          "PhaseOrder": 3,
+          "PhaseDesc": "Men's Team Quarterfinals",
+          "PhaseDescS": "Men's Team QF",
+          "PhaseDescA": "Quarterfinals",
+          "UnitDesc": "Men's Team Quarterfinals Tie 3",
+          "UnitDescS": "Men's Team QF Match  3",
+          "UnitDescA": "Tie 3",
+          "EndDateTimeRaw": "",
+          "ActualEndDateTimeRaw": "",
+          "UnitNum": "3",
+          "IsLive": false,
+          "ShowResults": true,
+          "Periods": [
+            {
+              "Order": 1,
+              "Desc": "Game 1",
+              "DescS": "G1"
+            },
+            {
+              "Order": 2,
+              "Desc": "Game 2",
+              "DescS": "G2"
+            },
+            {
+              "Order": 3,
+              "Desc": "Game 3",
+              "DescS": "G3"
+            }
+          ],
+          "Home": {
+            "Org": "IND",
+            "Reg": "BDMMTEAM-------IND01",
+            "Name": "India",
+            "Result": "3",
+            "Winner": true,
+            "HasData": true,
+            "NameS": "India",
+            "Medal": "",
+            "Members": [
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "KAPILA Dhruv",
+                "NameS": "KAPILA Dhruv",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "HASEENA S. K. Prannoy",
+                "NameS": "HASEENA S. K. Prannoy",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "AMSAKARUNAN Hariharan",
+                "NameS": "AMSAKARUNAN Hariharan",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "SHETTY Ayush",
+                "NameS": "SHETTY Ayush",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "SEN Lakshya",
+                "NameS": "SEN Lakshya",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "KIDAMBI Srikanth",
+                "NameS": "KIDAMBI Srikanth",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "MANNEPALLI Tharun",
+                "NameS": "MANNEPALLI Tharun",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "RANKIREDDY Satwiksairaj",
+                "NameS": "RANKIREDDY Satwiksairaj",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "SHETTY Chirag",
+                "NameS": "SHETTY Chirag",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "MADATHIL R Arjun",
+                "NameS": "MADATHIL R Arjun",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              }
+            ],
+            "Splits": [],
+            "Extensions": [
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game1DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game2DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game3DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "RedCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "WorldRanking",
+                "Pos": 0,
+                "Value": "3",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "PREV_RESULT",
+                "Code": "UNIT_KEY",
+                "Pos": 1,
+                "Value": "M.TEAM--------------.8FNL.00050000",
+                "Extensions": [
+                  {
+                    "Type": "RESULT",
+                    "Code": "Register",
+                    "Pos": 1,
+                    "Value": "BDMMTEAM-------IND01"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "RegisterOpp",
+                    "Pos": 1,
+                    "Value": "BDMMTEAM-------BAN01"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "Result",
+                    "Pos": 1,
+                    "Value": "3-0"
+                  }
+                ]
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "MemberServer",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "Server",
+                "Pos": 0,
+                "Value": "false",
+                "Extensions": []
+              }
+            ]
+          },
+          "Away": {
+            "Org": "JPN",
+            "Reg": "BDMMTEAM-------JPN01",
+            "Name": "Japan",
+            "Result": "0",
+            "Winner": false,
+            "HasData": true,
+            "NameS": "Japan",
+            "Medal": "",
+            "Members": [
+              {
+                "Org": "JPN",
+                "Bib": "",
+                "Name": "SHIMOGAMI Yuichi",
+                "NameS": "SHIMOGAMI Yuichi",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "JPN",
+                "Bib": "",
+                "Name": "TANAKA Yushi",
+                "NameS": "TANAKA Yushi",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "JPN",
+                "Bib": "",
+                "Name": "NISHI Hiroki",
+                "NameS": "NISHI Hiroki",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "JPN",
+                "Bib": "",
+                "Name": "KUMAGAI Kakeru",
+                "NameS": "KUMAGAI Kakeru",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "JPN",
+                "Bib": "",
+                "Name": "KOBAYASHI Yugo",
+                "NameS": "KOBAYASHI Yugo",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "JPN",
+                "Bib": "",
+                "Name": "HOKI Takuro",
+                "NameS": "HOKI Takuro",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "JPN",
+                "Bib": "",
+                "Name": "NARAOKA Kodai",
+                "NameS": "NARAOKA Kodai",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "JPN",
+                "Bib": "",
+                "Name": "WATANABE Koki",
+                "NameS": "WATANABE Koki",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "JPN",
+                "Bib": "",
+                "Name": "NISHIMOTO Kenta",
+                "NameS": "NISHIMOTO Kenta",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "JPN",
+                "Bib": "",
+                "Name": "WATANABE Yuta",
+                "NameS": "WATANABE Yuta",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              }
+            ],
+            "Splits": [],
+            "Extensions": [
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game1DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game2DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game3DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "RedCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "WorldRanking",
+                "Pos": 0,
+                "Value": "3",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "PREV_RESULT",
+                "Code": "UNIT_KEY",
+                "Pos": 1,
+                "Value": "M.TEAM--------------.8FNL.00060000",
+                "Extensions": [
+                  {
+                    "Type": "RESULT",
+                    "Code": "Register",
+                    "Pos": 1,
+                    "Value": "BDMMTEAM-------JPN01"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "RegisterOpp",
+                    "Pos": 1,
+                    "Value": "BDMMTEAM-------KAZ01"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "Result",
+                    "Pos": 1,
+                    "Value": "3-0"
+                  }
+                ]
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "MemberServer",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "Server",
+                "Pos": 0,
+                "Value": "false",
+                "Extensions": []
+              }
+            ]
+          },
+          "Extensions": [
+            {
+              "Type": "UNIT_INFO",
+              "Code": "DurationHHMM",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "InfoMatch",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "InfoTeam",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ReceivedDuration",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ResultDetailWinner",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ServerHomeAway",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "SubMatchNum",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "SubunitOrder",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "TeamMatchDuration",
+              "Pos": 0,
+              "Value": "3h8min",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Orgs": [
+            "IND",
+            "CHN"
+          ],
+          "IsPhase": false,
+          "ResCode": "M.TEAM--------------.SFNL.00020000",
+          "ShowLink": true,
+          "Disc": "BDM",
+          "DiscDesc": "Badminton",
+          "Key": "M.TEAM--------------.SFNL.00020000",
+          "isH2H": true,
+          "Type": "T",
+          "Medal": "2",
+          "Status": "OFFICIAL",
+          "StatusDesc": "Official",
+          "DateTimeRaw": "2026-09-23T15:00:00+09:00",
+          "HideStartDate": false,
+          "Estimated": false,
+          "EstText": "",
+          "HideLocation": true,
+          "Venue": "IMG",
+          "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+          "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+          "Loc": "001",
+          "LocDesc": "Court 1",
+          "LocDescS": "Court 1",
+          "Event": "M.TEAM--------------",
+          "EventDesc": "Men's Team",
+          "Phase": "M.TEAM--------------.SFNL",
+          "PhaseOrder": 2,
+          "PhaseDesc": "Men's Team Semifinals",
+          "PhaseDescS": "Men's Team SF",
+          "PhaseDescA": "Semifinals",
+          "UnitDesc": "Men's Team Semifinals Tie 2",
+          "UnitDescS": "Men's Team SF Tie 2",
+          "UnitDescA": "Tie 2",
+          "EndDateTimeRaw": "",
+          "ActualEndDateTimeRaw": "",
+          "UnitNum": "2",
+          "IsLive": false,
+          "ShowResults": true,
+          "Periods": [
+            {
+              "Order": 1,
+              "Desc": "Game 1",
+              "DescS": "G1"
+            },
+            {
+              "Order": 2,
+              "Desc": "Game 2",
+              "DescS": "G2"
+            },
+            {
+              "Order": 3,
+              "Desc": "Game 3",
+              "DescS": "G3"
+            }
+          ],
+          "Home": {
+            "Org": "IND",
+            "Reg": "BDMMTEAM-------IND01",
+            "Name": "India",
+            "Result": "1",
+            "Winner": false,
+            "HasData": true,
+            "NameS": "India",
+            "Medal": "ME_BRONZE",
+            "Members": [
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "KAPILA Dhruv",
+                "NameS": "KAPILA Dhruv",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "HASEENA S. K. Prannoy",
+                "NameS": "HASEENA S. K. Prannoy",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "AMSAKARUNAN Hariharan",
+                "NameS": "AMSAKARUNAN Hariharan",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "SHETTY Ayush",
+                "NameS": "SHETTY Ayush",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "SEN Lakshya",
+                "NameS": "SEN Lakshya",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "KIDAMBI Srikanth",
+                "NameS": "KIDAMBI Srikanth",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "MANNEPALLI Tharun",
+                "NameS": "MANNEPALLI Tharun",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "RANKIREDDY Satwiksairaj",
+                "NameS": "RANKIREDDY Satwiksairaj",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "SHETTY Chirag",
+                "NameS": "SHETTY Chirag",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "IND",
+                "Bib": "",
+                "Name": "MADATHIL R Arjun",
+                "NameS": "MADATHIL R Arjun",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              }
+            ],
+            "Splits": [],
+            "Extensions": [
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game1DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game2DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game3DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "RedCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "WorldRanking",
+                "Pos": 0,
+                "Value": "3",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "PREV_RESULT",
+                "Code": "UNIT_KEY",
+                "Pos": 1,
+                "Value": "M.TEAM--------------.8FNL.00050000",
+                "Extensions": [
+                  {
+                    "Type": "RESULT",
+                    "Code": "Register",
+                    "Pos": 1,
+                    "Value": "BDMMTEAM-------IND01"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "RegisterOpp",
+                    "Pos": 1,
+                    "Value": "BDMMTEAM-------BAN01"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "Result",
+                    "Pos": 1,
+                    "Value": "3-0"
+                  }
+                ]
+              },
+              {
+                "Type": "PREV_RESULT",
+                "Code": "UNIT_KEY",
+                "Pos": 2,
+                "Value": "M.TEAM--------------.QFNL.00030000",
+                "Extensions": [
+                  {
+                    "Type": "RESULT",
+                    "Code": "Register",
+                    "Pos": 2,
+                    "Value": "BDMMTEAM-------IND01"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "RegisterOpp",
+                    "Pos": 2,
+                    "Value": "BDMMTEAM-------JPN01"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "Result",
+                    "Pos": 2,
+                    "Value": "3-0"
+                  }
+                ]
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "MemberServer",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "Server",
+                "Pos": 0,
+                "Value": "false",
+                "Extensions": []
+              }
+            ]
+          },
+          "Away": {
+            "Org": "CHN",
+            "Reg": "BDMMTEAM-------CHN01",
+            "Name": "People's Republic of China",
+            "Result": "3",
+            "Winner": true,
+            "HasData": true,
+            "NameS": "China",
+            "Medal": "",
+            "Members": [
+              {
+                "Org": "CHN",
+                "Bib": "",
+                "Name": "FENG Yan Zhe",
+                "NameS": "FENG Yan Zhe",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "CHN",
+                "Bib": "",
+                "Name": "JIANG Zhen Bang",
+                "NameS": "JIANG Zhen Bang",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "CHN",
+                "Bib": "",
+                "Name": "LI Shifeng",
+                "NameS": "LI Shifeng",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "CHN",
+                "Bib": "",
+                "Name": "SHI Yuqi",
+                "NameS": "SHI Yuqi",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "CHN",
+                "Bib": "",
+                "Name": "HE Ji Ting",
+                "NameS": "HE Ji Ting",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "CHN",
+                "Bib": "",
+                "Name": "LIANG Weikeng",
+                "NameS": "LIANG Weikeng",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "CHN",
+                "Bib": "",
+                "Name": "LIU Yi",
+                "NameS": "LIU Yi",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "CHN",
+                "Bib": "",
+                "Name": "WANG Chang",
+                "NameS": "WANG Chang",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "CHN",
+                "Bib": "",
+                "Name": "LU Guangzu",
+                "NameS": "LU Guangzu",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              },
+              {
+                "Org": "CHN",
+                "Bib": "",
+                "Name": "WENG Hongyang",
+                "NameS": "WENG Hongyang",
+                "FuncDesc": "Athlete",
+                "PosDesc": ""
+              }
+            ],
+            "Splits": [],
+            "Extensions": [
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game1DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game2DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game3DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "RedCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "WorldRanking",
+                "Pos": 0,
+                "Value": "3",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "PREV_RESULT",
+                "Code": "UNIT_KEY",
+                "Pos": 1,
+                "Value": "M.TEAM--------------.QFNL.00040000",
+                "Extensions": [
+                  {
+                    "Type": "RESULT",
+                    "Code": "Register",
+                    "Pos": 1,
+                    "Value": "BDMMTEAM-------CHN01"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "RegisterOpp",
+                    "Pos": 1,
+                    "Value": "BDMMTEAM-------KOR01"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "Result",
+                    "Pos": 1,
+                    "Value": "3-2"
+                  }
+                ]
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "MemberServer",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "Server",
+                "Pos": 0,
+                "Value": "false",
+                "Extensions": []
+              }
+            ]
+          },
+          "Extensions": [
+            {
+              "Type": "UNIT_INFO",
+              "Code": "DurationHHMM",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "InfoMatch",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "InfoTeam",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ReceivedDuration",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ResultDetailWinner",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ServerHomeAway",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "SubMatchNum",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "SubunitOrder",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "TeamMatchDuration",
+              "Pos": 0,
+              "Value": "4h17min",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Orgs": [
+            "KAZ",
+            "IND"
+          ],
+          "IsPhase": false,
+          "ResCode": "M.SINGLES-----------.R32-.001100--",
+          "ShowLink": true,
+          "Disc": "BDM",
+          "DiscDesc": "Badminton",
+          "Key": "M.SINGLES-----------.R32-.001100--",
+          "isH2H": true,
+          "Type": "A",
+          "Medal": "",
+          "Status": "OFFICIAL",
+          "StatusDesc": "Official",
+          "DateTimeRaw": "2026-09-26T12:20:00+09:00",
+          "HideStartDate": true,
+          "Estimated": true,
+          "EstText": "Followed by",
+          "HideLocation": false,
+          "Venue": "IMG",
+          "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+          "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+          "Loc": "002",
+          "LocDesc": "Court 2",
+          "LocDescS": "Court 2",
+          "Event": "M.SINGLES-----------",
+          "EventDesc": "Men's Singles",
+          "Phase": "M.SINGLES-----------.R32-",
+          "PhaseOrder": 5,
+          "PhaseDesc": "Men's Singles 2nd Round",
+          "PhaseDescS": "MS R2",
+          "PhaseDescA": "2nd Round",
+          "UnitDesc": "Men's Singles 2nd Round Match 11",
+          "UnitDescS": "MS R2 M 11",
+          "UnitDescA": "Match 11",
+          "EndDateTimeRaw": "",
+          "ActualEndDateTimeRaw": "",
+          "UnitNum": "43",
+          "IsLive": false,
+          "ShowResults": true,
+          "Periods": [
+            {
+              "Order": 1,
+              "Desc": "Game 1",
+              "DescS": "G1"
+            },
+            {
+              "Order": 2,
+              "Desc": "Game 2",
+              "DescS": "G2"
+            },
+            {
+              "Order": 3,
+              "Desc": "Game 3",
+              "DescS": "G3"
+            }
+          ],
+          "Home": {
+            "Org": "KAZ",
+            "Reg": "12885939",
+            "Name": "TAJIBULLAYEV Makhsut",
+            "Result": "0",
+            "Winner": false,
+            "HasData": true,
+            "NameS": "TAJIBULLAYEV M",
+            "Medal": "",
+            "Splits": [
+              {
+                "Rk": "2",
+                "RkPo": 2,
+                "Res": "7",
+                "Extensions": []
+              },
+              {
+                "Rk": "2",
+                "RkPo": 2,
+                "Res": "7",
+                "Extensions": []
+              }
+            ],
+            "Extensions": [
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game1DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game2DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game3DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "RedCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "WorldRanking",
+                "Pos": 0,
+                "Value": "2",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "PREV_RESULT",
+                "Code": "UNIT_KEY",
+                "Pos": 1,
+                "Value": "M.SINGLES-----------.R64-.002100--",
+                "Extensions": [
+                  {
+                    "Type": "RESULT",
+                    "Code": "Register",
+                    "Pos": 1,
+                    "Value": "12885939"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "RegisterOpp",
+                    "Pos": 1,
+                    "Value": "13590453"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "Result",
+                    "Pos": 1,
+                    "Value": "2-1"
+                  }
+                ]
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "MemberServer",
+                "Pos": 0,
+                "Value": "1",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "Server",
+                "Pos": 0,
+                "Value": "false",
+                "Extensions": []
+              }
+            ]
+          },
+          "Away": {
+            "Org": "IND",
+            "Reg": "12911698",
+            "Name": "SHETTY Ayush",
+            "Result": "2",
+            "Winner": true,
+            "HasData": true,
+            "NameS": "SHETTY A",
+            "Medal": "",
+            "Splits": [
+              {
+                "Rk": "1",
+                "RkPo": 1,
+                "Res": "21",
+                "Extensions": []
+              },
+              {
+                "Rk": "1",
+                "RkPo": 1,
+                "Res": "21",
+                "Extensions": []
+              }
+            ],
+            "Extensions": [
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game1DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game2DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game3DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "RedCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "WorldRanking",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "MemberServer",
+                "Pos": 0,
+                "Value": "1",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "Server",
+                "Pos": 0,
+                "Value": "true",
+                "Extensions": []
+              }
+            ]
+          },
+          "Extensions": [
+            {
+              "Type": "UNIT_INFO",
+              "Code": "DurationHHMM",
+              "Pos": 0,
+              "Value": "18min",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "InfoMatch",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "InfoTeam",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ReceivedDuration",
+              "Pos": 0,
+              "Value": "21",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ResultDetailWinner",
+              "Pos": 0,
+              "Value": "21-7, 21-7",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ServerHomeAway",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "SubMatchNum",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "SubunitOrder",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Orgs": [
+            "IND",
+            "TPE"
+          ],
+          "IsPhase": false,
+          "ResCode": "M.SINGLES-----------.8FNL.000600--",
+          "ShowLink": true,
+          "Disc": "BDM",
+          "DiscDesc": "Badminton",
+          "Key": "M.SINGLES-----------.8FNL.000600--",
+          "isH2H": true,
+          "Type": "A",
+          "Medal": "",
+          "Status": "OFFICIAL",
+          "StatusDesc": "Official",
+          "DateTimeRaw": "2026-09-26T17:00:00+09:00",
+          "HideStartDate": true,
+          "Estimated": true,
+          "EstText": "Followed by",
+          "HideLocation": false,
+          "Venue": "IMG",
+          "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+          "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+          "Loc": "003",
+          "LocDesc": "Court 3",
+          "LocDescS": "Court 3",
+          "Event": "M.SINGLES-----------",
+          "EventDesc": "Men's Singles",
+          "Phase": "M.SINGLES-----------.8FNL",
+          "PhaseOrder": 4,
+          "PhaseDesc": "Men's Singles 3rd Round",
+          "PhaseDescS": "MS R3",
+          "PhaseDescA": "3rd Round",
+          "UnitDesc": "Men's Singles 3rd Round Match 6",
+          "UnitDescS": "MS R3 M 6",
+          "UnitDescA": "Match 6",
+          "EndDateTimeRaw": "",
+          "ActualEndDateTimeRaw": "",
+          "UnitNum": "54",
+          "IsLive": false,
+          "ShowResults": true,
+          "Periods": [
+            {
+              "Order": 1,
+              "Desc": "Game 1",
+              "DescS": "G1"
+            },
+            {
+              "Order": 2,
+              "Desc": "Game 2",
+              "DescS": "G2"
+            },
+            {
+              "Order": 3,
+              "Desc": "Game 3",
+              "DescS": "G3"
+            }
+          ],
+          "Home": {
+            "Org": "IND",
+            "Reg": "12911698",
+            "Name": "SHETTY Ayush",
+            "Result": "1",
+            "Winner": false,
+            "HasData": true,
+            "NameS": "SHETTY A",
+            "Medal": "",
+            "Splits": [
+              {
+                "Rk": "2",
+                "RkPo": 2,
+                "Res": "16",
+                "Extensions": []
+              },
+              {
+                "Rk": "1",
+                "RkPo": 1,
+                "Res": "21",
+                "Extensions": []
+              },
+              {
+                "Rk": "2",
+                "RkPo": 2,
+                "Res": "17",
+                "Extensions": []
+              }
+            ],
+            "Extensions": [
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game1DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game2DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game3DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "RedCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "WorldRanking",
+                "Pos": 0,
+                "Value": "2",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "PREV_RESULT",
+                "Code": "UNIT_KEY",
+                "Pos": 1,
+                "Value": "M.SINGLES-----------.R32-.001100--",
+                "Extensions": [
+                  {
+                    "Type": "RESULT",
+                    "Code": "Register",
+                    "Pos": 1,
+                    "Value": "12911698"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "RegisterOpp",
+                    "Pos": 1,
+                    "Value": "12885939"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "Result",
+                    "Pos": 1,
+                    "Value": "2-0"
+                  }
+                ]
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "MemberServer",
+                "Pos": 0,
+                "Value": "1",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "Server",
+                "Pos": 0,
+                "Value": "false",
+                "Extensions": []
+              }
+            ]
+          },
+          "Away": {
+            "Org": "TPE",
+            "Reg": "2264406",
+            "Name": "CHOU Tien-Chen",
+            "Result": "2",
+            "Winner": true,
+            "HasData": true,
+            "NameS": "CHOU T",
+            "Medal": "",
+            "Splits": [
+              {
+                "Rk": "1",
+                "RkPo": 1,
+                "Res": "21",
+                "Extensions": []
+              },
+              {
+                "Rk": "2",
+                "RkPo": 2,
+                "Res": "19",
+                "Extensions": []
+              },
+              {
+                "Rk": "1",
+                "RkPo": 1,
+                "Res": "21",
+                "Extensions": []
+              }
+            ],
+            "Extensions": [
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "BlackCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game1DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game2DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "Game3DetailCards",
+                "Pos": 0,
+                "Value": "",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "RedCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "WorldRanking",
+                "Pos": 0,
+                "Value": "2",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCard",
+                "Pos": 0,
+                "Value": "False",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardAwayScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardGame",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "COMPETITOR_INFO",
+                "Code": "YellowCardHomeScore",
+                "Pos": 0,
+                "Value": "0",
+                "Extensions": []
+              },
+              {
+                "Type": "PREV_RESULT",
+                "Code": "UNIT_KEY",
+                "Pos": 1,
+                "Value": "M.SINGLES-----------.R32-.001200--",
+                "Extensions": [
+                  {
+                    "Type": "RESULT",
+                    "Code": "Register",
+                    "Pos": 1,
+                    "Value": "2264406"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "RegisterOpp",
+                    "Pos": 1,
+                    "Value": "650904"
+                  },
+                  {
+                    "Type": "RESULT",
+                    "Code": "Result",
+                    "Pos": 1,
+                    "Value": "2-0"
+                  }
+                ]
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "MemberServer",
+                "Pos": 0,
+                "Value": "1",
+                "Extensions": []
+              },
+              {
+                "Type": "SERVICE",
+                "Code": "Server",
+                "Pos": 0,
+                "Value": "true",
+                "Extensions": []
+              }
+            ]
+          },
+          "Extensions": [
+            {
+              "Type": "UNIT_INFO",
+              "Code": "DurationHHMM",
+              "Pos": 0,
+              "Value": "1h10min",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "InfoMatch",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "InfoTeam",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ReceivedDuration",
+              "Pos": 0,
+              "Value": "75",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ResultDetailWinner",
+              "Pos": 0,
+              "Value": "21-16, 19-21, 21-17",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "ServerHomeAway",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "SubMatchNum",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "UNIT_INFO",
+              "Code": "SubunitOrder",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "historical": null
+    }
   },
   {
     "reg": "12919198",
@@ -235406,10 +237963,10 @@
           "TeamReg": "BDMMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -240948,10 +243505,10 @@
           "TeamReg": "BDMMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -248963,10 +251520,10 @@
           "Desc": "Women's 65kg",
           "DescS": "Women's 65kg",
           "isMember": false,
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -252732,10 +255289,10 @@
           "Desc": "Men's +90kg",
           "DescS": "Men's +90kg",
           "isMember": false,
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -282495,10 +285052,10 @@
           "TeamReg": "GLFWTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -283739,10 +286296,10 @@
           "TeamReg": "GLFWTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -501156,10 +503713,10 @@
           "Desc": "Men's Team",
           "DescS": "Men's Team",
           "isMember": false,
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -512304,10 +514861,10 @@
           "TeamReg": "KABMTEAM7------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -514162,10 +516719,10 @@
           "TeamReg": "KABMTEAM7------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -517878,10 +520435,10 @@
           "TeamReg": "KABMTEAM7------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -519736,10 +522293,10 @@
           "TeamReg": "KABMTEAM7------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -539498,10 +542055,10 @@
           "TeamReg": "KABWTEAM7------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -545723,10 +548280,10 @@
           "Desc": "Women -78kg",
           "DescS": "Women -78kg",
           "isMember": false,
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -547198,10 +549755,10 @@
           "Desc": "Men's Skiff",
           "DescS": "Men's Skiff",
           "isMember": false,
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -549835,10 +552392,10 @@
           "TeamReg": "SALW49ERFX-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -550337,10 +552894,10 @@
           "Desc": "Women's Dinghy",
           "DescS": "Women's Dinghy",
           "isMember": false,
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -551044,10 +553601,10 @@
           "TeamReg": "SHOWTRTW-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "328"
+          "Result": "328",
+          "Medal": "ME_SILVER"
         },
         {
           "Disc": "SHO",
@@ -552169,10 +554726,10 @@
           "TeamReg": "SHOXAPMT-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "484.6",
-          "Medal": "ME_GOLD"
+          "Result": "484.6"
         }
       ],
       "schedule": [
@@ -552498,10 +555055,10 @@
           "Desc": "Trap Mixed Team",
           "DescS": "Trap Mixed Team",
           "isMember": false,
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "34",
-          "Medal": "ME_GOLD"
+          "Result": "34"
         }
       ],
       "schedule": [
@@ -553500,10 +556057,10 @@
           "Desc": "10m Air Rifle Men Team",
           "DescS": "10m Air Rifle Men Team",
           "isMember": false,
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "1890.1",
-          "Medal": "ME_SILVER"
+          "Result": "1890.1"
         }
       ],
       "schedule": [
@@ -553635,10 +556192,10 @@
           "TeamReg": "SHOMARTM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "1890.1"
+          "Result": "1890.1",
+          "Medal": "ME_SILVER"
         },
         {
           "Disc": "SHO",
@@ -553661,10 +556218,10 @@
           "TeamReg": "SHOMR3PTM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "1762"
+          "Result": "1762",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -554369,10 +556926,10 @@
           "Desc": "50m Rifle 3 Positions Men Team",
           "DescS": "50m Rifle 3 Positions Men Team",
           "isMember": false,
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "1762",
-          "Medal": "ME_SILVER"
+          "Result": "1762"
         }
       ],
       "schedule": [
@@ -555527,10 +558084,10 @@
           "TeamReg": "SHOWR3PTW------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "1763",
-          "Medal": "ME_SILVER"
+          "Result": "1763"
         },
         {
           "Disc": "SHO",
@@ -555898,10 +558455,10 @@
           "TeamReg": "SHOWARTW-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "1898.0",
-          "Medal": "ME_SILVER"
+          "Result": "1898.0"
         },
         {
           "Disc": "SHO",
@@ -557895,10 +560452,10 @@
           "TeamReg": "SHOWTRTW-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "328",
-          "Medal": "ME_SILVER"
+          "Result": "328"
         },
         {
           "Disc": "SHO",
@@ -560300,10 +562857,10 @@
           "TeamReg": "SHOWSKTW-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "331"
+          "Result": "331",
+          "Medal": "ME_BRONZE"
         },
         {
           "Disc": "SHO",
@@ -561267,10 +563824,10 @@
           "TeamReg": "SHOWSKTW-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "331",
-          "Medal": "ME_BRONZE"
+          "Result": "331"
         },
         {
           "Disc": "SHO",
@@ -566597,10 +569154,10 @@
           "TeamReg": "SPKMQUADRANT---IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         },
         {
           "Disc": "SPK",
@@ -570317,10 +572874,10 @@
           "TeamReg": "SPKMQUADRANT---IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         },
         {
           "Disc": "SPK",
@@ -572177,10 +574734,10 @@
           "TeamReg": "SPKMQUADRANT---IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         },
         {
           "Disc": "SPK",
@@ -583213,10 +585770,10 @@
           "TeamReg": "SQUMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -585980,10 +588537,10 @@
           "TeamReg": "SQUXDOUBLES----IND02",
           "TeamOrg": "IND",
           "TeamName": "CHINAPPA J. /SENTHILKUMAR V.",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -617188,10 +619745,10 @@
           "TeamReg": "TTEXDOUBLES----IND01",
           "TeamOrg": "IND",
           "TeamName": "SHAH Manush/CHITALE Diya",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -622853,10 +625410,10 @@
           "Desc": "Men's Freestyle 57kg",
           "DescS": "Men's Freestyle 57kg",
           "isMember": false,
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -625099,10 +627656,10 @@
           "Desc": "Men's Freestyle 65kg",
           "DescS": "Men's Freestyle 65kg",
           "isMember": false,
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -628627,10 +631184,10 @@
           "Desc": "Women's Wrestling 53kg",
           "DescS": "Women's Wrestling 53kg",
           "isMember": false,
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_SILVER"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -630609,10 +633166,10 @@
           "Desc": "Men's Freestyle 97kg",
           "DescS": "Men's Freestyle 97kg",
           "isMember": false,
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -632714,10 +635271,10 @@
           "Desc": "Men's Greco-Roman 87kg",
           "DescS": "Men's Greco-Roman 87kg",
           "isMember": false,
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -634177,10 +636734,10 @@
           "Desc": "Women's 60kg",
           "DescS": "Women's 60kg",
           "isMember": false,
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
