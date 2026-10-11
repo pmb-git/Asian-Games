@@ -614000,10 +614000,10 @@
           "TeamReg": "TTEXDOUBLES----IND01",
           "TeamOrg": "IND",
           "TeamName": "SHAH Manush/CHITALE Diya",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -625410,10 +625410,10 @@
           "Desc": "Men's Freestyle 57kg",
           "DescS": "Men's Freestyle 57kg",
           "isMember": false,
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
