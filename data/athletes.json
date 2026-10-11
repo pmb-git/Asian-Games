@@ -219810,10 +219810,10 @@
           "Desc": "Women's Long Jump",
           "DescS": "Women's Long Jump",
           "isMember": false,
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "OK",
-          "Result": "6.53"
+          "Result": "6.53",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -224841,10 +224841,10 @@
           "TeamReg": "ATHX4X100M-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "41.06"
+          "Result": "41.06",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -556192,10 +556192,10 @@
           "TeamReg": "SHOMARTM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "1890.1"
+          "Result": "1890.1",
+          "Medal": "ME_SILVER"
         },
         {
           "Disc": "SHO",
@@ -561563,10 +561563,10 @@
           "TeamReg": "SHOMSKTM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "346",
-          "Medal": "ME_BRONZE"
+          "Result": "346"
         },
         {
           "Disc": "SHO",
@@ -561578,10 +561578,10 @@
           "TeamReg": "SHOXSKMT-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "44",
-          "Medal": "ME_BRONZE"
+          "Result": "44"
         }
       ],
       "schedule": [
@@ -562883,10 +562883,10 @@
           "TeamReg": "SHOXSKMT-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "44"
+          "Result": "44",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -576586,10 +576586,10 @@
           "Desc": "Men's Singles",
           "DescS": "Men's Singles",
           "isMember": false,
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_SILVER"
+          "Result": ""
         },
         {
           "Disc": "SQU",
