@@ -8279,10 +8279,10 @@
           "TeamReg": "ARCMCTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         },
         {
           "Disc": "ARC",
@@ -16615,10 +16615,10 @@
           "TeamReg": "ARCXCTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -35865,10 +35865,10 @@
           "TeamReg": "ARCMCTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         },
         {
           "Disc": "ARC",
@@ -35888,10 +35888,10 @@
           "TeamReg": "ARCXCTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -83422,10 +83422,10 @@
           "TeamReg": "ARCWCTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         },
         {
           "Disc": "ARC",
@@ -91790,10 +91790,10 @@
           "TeamReg": "ARCXCTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -103788,10 +103788,10 @@
           "Desc": "Recurve Women's Individual",
           "DescS": "Recurve Women's Individual",
           "isMember": false,
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         },
         {
           "Disc": "ARC",
@@ -103811,10 +103811,10 @@
           "TeamReg": "ARCWRTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         },
         {
           "Disc": "ARC",
@@ -103834,10 +103834,10 @@
           "TeamReg": "ARCXRTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_SILVER"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -133018,10 +133018,10 @@
           "TeamReg": "ARCXRTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -165280,10 +165280,10 @@
           "TeamReg": "ARCXRTEAM2-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_SILVER"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -194157,10 +194157,10 @@
           "TeamReg": "ARCMRTEAM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         },
         {
           "Disc": "ARC",
@@ -218601,10 +218601,10 @@
           "Desc": "Men's 5000m",
           "DescS": "Men's 5000m",
           "isMember": false,
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "13:32.75",
-          "Medal": "ME_BRONZE"
+          "Result": "13:32.75"
         }
       ],
       "schedule": [
@@ -237963,10 +237963,10 @@
           "TeamReg": "BDMMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -249939,10 +249939,10 @@
           "Desc": "Men's 80kg",
           "DescS": "Men's 80kg",
           "isMember": false,
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -252891,10 +252891,10 @@
           "Desc": "Women's 75kg",
           "DescS": "Women's 75kg",
           "isMember": false,
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -257501,10 +257501,10 @@
           "Desc": "Men",
           "DescS": "Men",
           "isMember": false,
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -263886,10 +263886,10 @@
           "TeamReg": "CKTMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -264586,10 +264586,10 @@
           "TeamReg": "CKTMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -276660,10 +276660,10 @@
           "TeamReg": "CKTWTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -287091,10 +287091,10 @@
           "TeamReg": "GLFWTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "3",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_SILVER"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -516719,10 +516719,10 @@
           "TeamReg": "KABMTEAM7------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -520435,10 +520435,10 @@
           "TeamReg": "KABMTEAM7------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -524151,10 +524151,10 @@
           "TeamReg": "KABMTEAM7------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -535819,10 +535819,10 @@
           "TeamReg": "KABWTEAM7------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -537378,10 +537378,10 @@
           "TeamReg": "KABWTEAM7------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -543575,1550 +543575,7 @@
         "event": "Women's Team Final"
       }
     ],
-    "bio_data": {
-      "participant": {
-        "Reg": "14084412",
-        "Disc": "KAB",
-        "DiscDesc": "Kabaddi",
-        "hasMembers": false,
-        "Org": "IND",
-        "OrgDesc": "India",
-        "Type": "A",
-        "MedClass": "",
-        "Gender": "W",
-        "BirthDateRaw": "1993-08-21",
-        "Name": "ROY Pinki",
-        "NameS": "ROY P",
-        "GivenName": "Pinki",
-        "FamilyName": "ROY",
-        "IFId": "0193",
-        "Height": null,
-        "Weight": null
-      },
-      "entries": [
-        {
-          "Disc": "KAB",
-          "Reg": "14084412",
-          "EvKey": "W.TEAM7-------------",
-          "Desc": "Women's Team",
-          "DescS": "Women's Team",
-          "isMember": false
-        },
-        {
-          "Disc": "KAB",
-          "Reg": "14084412",
-          "EvKey": "W.TEAM7-------------",
-          "Desc": "Women's Team",
-          "DescS": "Women's Team",
-          "isMember": true,
-          "TeamReg": "KABWTEAM7------IND01",
-          "TeamOrg": "IND",
-          "TeamName": "India",
-          "Medal": "ME_GOLD",
-          "Rank": "1",
-          "IRM": "",
-          "Result": ""
-        }
-      ],
-      "schedule": [
-        {
-          "Orgs": [
-            "BAN",
-            "IND"
-          ],
-          "IsPhase": false,
-          "ResCode": "W.TEAM7-------------.GPA-.000200--",
-          "ShowLink": true,
-          "Disc": "KAB",
-          "DiscDesc": "Kabaddi",
-          "Key": "W.TEAM7-------------.GPA-.000200--",
-          "isH2H": true,
-          "Type": "T",
-          "Medal": "0",
-          "Status": "OFFICIAL",
-          "StatusDesc": "Official",
-          "DateTimeRaw": "2026-09-21T19:45:00+09:00",
-          "HideStartDate": false,
-          "Estimated": false,
-          "EstText": "",
-          "HideLocation": false,
-          "Venue": "TCG",
-          "VenueDesc": "Tokai Citizen Gymnasium",
-          "VenueDescS": "Tokai Citizen Gymnasium",
-          "Loc": "KA2",
-          "LocDesc": "TCG Crt 2",
-          "LocDescS": "TCG Crt 2",
-          "Event": "W.TEAM7-------------",
-          "EventDesc": "Women's Team",
-          "Phase": "W.TEAM7-------------.GPA-",
-          "PhaseOrder": 10,
-          "PhaseDesc": "Women's Team Group A",
-          "PhaseDescS": "Women's Team Group A",
-          "PhaseDescA": "Group A",
-          "UnitDesc": "Game 2",
-          "UnitDescS": "Game 2",
-          "UnitDescA": "Game 2",
-          "EndDateTimeRaw": "2026-09-21T21:03:43+09:00",
-          "ActualEndDateTimeRaw": "2026-09-21T21:03:43+09:00",
-          "UnitNum": "8",
-          "IsLive": false,
-          "ShowResults": true,
-          "Periods": [
-            {
-              "Order": 1,
-              "Desc": "1st Half",
-              "DescS": "1H"
-            },
-            {
-              "Order": 2,
-              "Desc": "2nd Half",
-              "DescS": "2H"
-            }
-          ],
-          "Home": {
-            "Org": "BAN",
-            "Reg": "KABWTEAM7------BAN01",
-            "Name": "Bangladesh",
-            "Result": "21",
-            "Winner": false,
-            "HasData": true,
-            "NameS": "Bangladesh",
-            "Medal": "",
-            "Members": [
-              {
-                "Org": "BAN",
-                "Bib": "5",
-                "Name": "RATRY Anzuara",
-                "NameS": "RATRY Anzuara",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "9",
-                "Name": "CHAKMA Sucharita",
-                "NameS": "CHAKMA Sucharita",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "7",
-                "Name": "AKTER Rupali",
-                "NameS": "AKTER Rupali",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "1",
-                "Name": "MOLLICK Sraboni",
-                "NameS": "MOLLICK Sraboni",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "11",
-                "Name": "KHANOM Mst Yasmin",
-                "NameS": "KHANOM Mst Yasmin",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "2",
-                "Name": "BISWAS Brishti",
-                "NameS": "BISWAS Brishti",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "3",
-                "Name": "AKTERY Rekha",
-                "NameS": "AKTERY Rekha",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "4",
-                "Name": "CHAKMA Meybi",
-                "NameS": "CHAKMA Meybi",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "10",
-                "Name": "KHATUN Khadiza",
-                "NameS": "KHATUN Khadiza",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "12",
-                "Name": "AKTER Mst Nahida",
-                "NameS": "AKTER Mst Nahida",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "8",
-                "Name": "SADIKA Mst Israt Jahan",
-                "NameS": "SADIKA Mst Israt Jahan",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "BAN",
-                "Bib": "6",
-                "Name": "AKTER Loba",
-                "NameS": "AKTER Loba",
-                "FuncDesc": "",
-                "PosDesc": ""
-              }
-            ],
-            "Splits": [
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "10",
-                "Extensions": []
-              },
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "11",
-                "Extensions": []
-              }
-            ]
-          },
-          "Away": {
-            "Org": "IND",
-            "Reg": "KABWTEAM7------IND01",
-            "Name": "India",
-            "Result": "42",
-            "Winner": true,
-            "HasData": true,
-            "NameS": "India",
-            "Medal": "",
-            "Members": [
-              {
-                "Org": "IND",
-                "Bib": "14",
-                "Name": "DEVI Sanju",
-                "NameS": "DEVI Sanju",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "7",
-                "Name": "NEGI Ritu",
-                "NameS": "NEGI Ritu",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "2",
-                "Name": "KUMARI Manisha",
-                "NameS": "KUMARI Manisha",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "12",
-                "Name": "ROY Pinki",
-                "NameS": "ROY Pinki",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "1",
-                "Name": "JYOTI",
-                "NameS": "JYOTI",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "4",
-                "Name": "NIKITA",
-                "NameS": "NIKITA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "9",
-                "Name": "POOJA",
-                "NameS": "POOJA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "8",
-                "Name": "RAJ RANI",
-                "NameS": "RAJ RANI",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "5",
-                "Name": "SHINGATE Sonali Vishnu",
-                "NameS": "SHINGATE Sonali Vishnu",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "3",
-                "Name": "PUSHPA",
-                "NameS": "PUSHPA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "11",
-                "Name": "DEVI Bhavna",
-                "NameS": "DEVI Bhavna",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "10",
-                "Name": "RITU",
-                "NameS": "RITU",
-                "FuncDesc": "",
-                "PosDesc": ""
-              }
-            ],
-            "Splits": [
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "21",
-                "Extensions": []
-              },
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "21",
-                "Extensions": []
-              }
-            ]
-          }
-        },
-        {
-          "Orgs": [
-            "IRI",
-            "IND"
-          ],
-          "IsPhase": false,
-          "ResCode": "W.TEAM7-------------.GPA-.000400--",
-          "ShowLink": true,
-          "Disc": "KAB",
-          "DiscDesc": "Kabaddi",
-          "Key": "W.TEAM7-------------.GPA-.000400--",
-          "isH2H": true,
-          "Type": "T",
-          "Medal": "0",
-          "Status": "OFFICIAL",
-          "StatusDesc": "Official",
-          "DateTimeRaw": "2026-09-23T12:00:00+09:00",
-          "HideStartDate": false,
-          "Estimated": false,
-          "EstText": "",
-          "HideLocation": false,
-          "Venue": "TCG",
-          "VenueDesc": "Tokai Citizen Gymnasium",
-          "VenueDescS": "Tokai Citizen Gymnasium",
-          "Loc": "KA2",
-          "LocDesc": "TCG Crt 2",
-          "LocDescS": "TCG Crt 2",
-          "Event": "W.TEAM7-------------",
-          "EventDesc": "Women's Team",
-          "Phase": "W.TEAM7-------------.GPA-",
-          "PhaseOrder": 10,
-          "PhaseDesc": "Women's Team Group A",
-          "PhaseDescS": "Women's Team Group A",
-          "PhaseDescA": "Group A",
-          "UnitDesc": "Game 4",
-          "UnitDescS": "Game 4",
-          "UnitDescA": "Game 4",
-          "EndDateTimeRaw": "2026-09-23T13:04:59+09:00",
-          "ActualEndDateTimeRaw": "2026-09-23T13:04:59+09:00",
-          "UnitNum": "19",
-          "IsLive": false,
-          "ShowResults": true,
-          "Periods": [
-            {
-              "Order": 1,
-              "Desc": "1st Half",
-              "DescS": "1H"
-            },
-            {
-              "Order": 2,
-              "Desc": "2nd Half",
-              "DescS": "2H"
-            }
-          ],
-          "Home": {
-            "Org": "IRI",
-            "Reg": "KABWTEAM7------IRI01",
-            "Name": "Islamic Republic of Iran",
-            "Result": "23",
-            "Winner": false,
-            "HasData": true,
-            "NameS": "IR Iran",
-            "Medal": "",
-            "Members": [
-              {
-                "Org": "IRI",
-                "Bib": "12",
-                "Name": "MALMALI Zakiyeh",
-                "NameS": "MALMALI Zakiyeh",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "5",
-                "Name": "FARAMARZI ZOBARAN Aynaz",
-                "NameS": "FARAMARZI ZOBARAN Aynaz",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "2",
-                "Name": "MADADI Atena",
-                "NameS": "MADADI Atena",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "3",
-                "Name": "KARIMI Zahra",
-                "NameS": "KARIMI Zahra",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "11",
-                "Name": "KOLAGAR Fereshte",
-                "NameS": "KOLAGAR Fereshte",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "9",
-                "Name": "YARISARAROUDI Sahar",
-                "NameS": "YARISARAROUDI Sahar",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "10",
-                "Name": "LAKALIABADI Mahtab",
-                "NameS": "LAKALIABADI Mahtab",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "1",
-                "Name": "ASTEREKI Zahra",
-                "NameS": "ASTEREKI Zahra",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "4",
-                "Name": "NAEIMI MARANI Saniya",
-                "NameS": "NAEIMI MARANI Saniya",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "7",
-                "Name": "VARASTEHKALMARZI Hadiseh",
-                "NameS": "VARASTEHKALMARZI Hadiseh",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "6",
-                "Name": "JALALVAND Nikta",
-                "NameS": "JALALVAND Nikta",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "8",
-                "Name": "KHODABANDEHLOO Zahra",
-                "NameS": "KHODABANDEHLOO Zahra",
-                "FuncDesc": "",
-                "PosDesc": ""
-              }
-            ],
-            "Splits": [
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "15",
-                "Extensions": []
-              },
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "8",
-                "Extensions": []
-              }
-            ]
-          },
-          "Away": {
-            "Org": "IND",
-            "Reg": "KABWTEAM7------IND01",
-            "Name": "India",
-            "Result": "37",
-            "Winner": true,
-            "HasData": true,
-            "NameS": "India",
-            "Medal": "",
-            "Members": [
-              {
-                "Org": "IND",
-                "Bib": "9",
-                "Name": "POOJA",
-                "NameS": "POOJA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "8",
-                "Name": "RAJ RANI",
-                "NameS": "RAJ RANI",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "5",
-                "Name": "SHINGATE Sonali Vishnu",
-                "NameS": "SHINGATE Sonali Vishnu",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "3",
-                "Name": "PUSHPA",
-                "NameS": "PUSHPA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "11",
-                "Name": "DEVI Bhavna",
-                "NameS": "DEVI Bhavna",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "10",
-                "Name": "RITU",
-                "NameS": "RITU",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "14",
-                "Name": "DEVI Sanju",
-                "NameS": "DEVI Sanju",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "7",
-                "Name": "NEGI Ritu",
-                "NameS": "NEGI Ritu",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "2",
-                "Name": "KUMARI Manisha",
-                "NameS": "KUMARI Manisha",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "12",
-                "Name": "ROY Pinki",
-                "NameS": "ROY Pinki",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "1",
-                "Name": "JYOTI",
-                "NameS": "JYOTI",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "4",
-                "Name": "NIKITA",
-                "NameS": "NIKITA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              }
-            ],
-            "Splits": [
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "19",
-                "Extensions": []
-              },
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "18",
-                "Extensions": []
-              }
-            ]
-          }
-        },
-        {
-          "Orgs": [
-            "JPN",
-            "IND"
-          ],
-          "IsPhase": false,
-          "ResCode": "W.TEAM7-------------.GPA-.000600--",
-          "ShowLink": true,
-          "Disc": "KAB",
-          "DiscDesc": "Kabaddi",
-          "Key": "W.TEAM7-------------.GPA-.000600--",
-          "isH2H": true,
-          "Type": "T",
-          "Medal": "0",
-          "Status": "OFFICIAL",
-          "StatusDesc": "Official",
-          "DateTimeRaw": "2026-09-24T19:45:00+09:00",
-          "HideStartDate": false,
-          "Estimated": false,
-          "EstText": "",
-          "HideLocation": false,
-          "Venue": "TCG",
-          "VenueDesc": "Tokai Citizen Gymnasium",
-          "VenueDescS": "Tokai Citizen Gymnasium",
-          "Loc": "KA2",
-          "LocDesc": "TCG Crt 2",
-          "LocDescS": "TCG Crt 2",
-          "Event": "W.TEAM7-------------",
-          "EventDesc": "Women's Team",
-          "Phase": "W.TEAM7-------------.GPA-",
-          "PhaseOrder": 10,
-          "PhaseDesc": "Women's Team Group A",
-          "PhaseDescS": "Women's Team Group A",
-          "PhaseDescA": "Group A",
-          "UnitDesc": "Game 6",
-          "UnitDescS": "Game 6",
-          "UnitDescA": "Game 6",
-          "EndDateTimeRaw": "2026-09-24T20:41:56+09:00",
-          "ActualEndDateTimeRaw": "2026-09-24T20:41:56+09:00",
-          "UnitNum": "32",
-          "IsLive": false,
-          "ShowResults": true,
-          "Periods": [
-            {
-              "Order": 1,
-              "Desc": "1st Half",
-              "DescS": "1H"
-            },
-            {
-              "Order": 2,
-              "Desc": "2nd Half",
-              "DescS": "2H"
-            }
-          ],
-          "Home": {
-            "Org": "JPN",
-            "Reg": "KABWTEAM7------JPN01",
-            "Name": "Japan",
-            "Result": "25",
-            "Winner": false,
-            "HasData": true,
-            "NameS": "Japan",
-            "Medal": "",
-            "Members": [
-              {
-                "Org": "JPN",
-                "Bib": "4",
-                "Name": "KUROYANAGI Yuri",
-                "NameS": "KUROYANAGI Yuri",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "2",
-                "Name": "TERAO Miki",
-                "NameS": "TERAO Miki",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "1",
-                "Name": "OTA Yoko",
-                "NameS": "OTA Yoko",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "11",
-                "Name": "OYA Futaba",
-                "NameS": "OYA Futaba",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "3",
-                "Name": "KITO Yawara",
-                "NameS": "KITO Yawara",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "12",
-                "Name": "ICHIJO Natsumi",
-                "NameS": "ICHIJO Natsumi",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "8",
-                "Name": "ISHIO Misato",
-                "NameS": "ISHIO Misato",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "10",
-                "Name": "MASUKO Tomomi",
-                "NameS": "MASUKO Tomomi",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "7",
-                "Name": "ONDA Risa",
-                "NameS": "ONDA Risa",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "9",
-                "Name": "SUGANUMA Miho",
-                "NameS": "SUGANUMA Miho",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "5",
-                "Name": "AKATSU Mari",
-                "NameS": "AKATSU Mari",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "JPN",
-                "Bib": "6",
-                "Name": "HIKICHI Shiho",
-                "NameS": "HIKICHI Shiho",
-                "FuncDesc": "",
-                "PosDesc": ""
-              }
-            ],
-            "Splits": [
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "13",
-                "Extensions": []
-              },
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "12",
-                "Extensions": []
-              }
-            ]
-          },
-          "Away": {
-            "Org": "IND",
-            "Reg": "KABWTEAM7------IND01",
-            "Name": "India",
-            "Result": "50",
-            "Winner": true,
-            "HasData": true,
-            "NameS": "India",
-            "Medal": "",
-            "Members": [
-              {
-                "Org": "IND",
-                "Bib": "9",
-                "Name": "POOJA",
-                "NameS": "POOJA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "8",
-                "Name": "RAJ RANI",
-                "NameS": "RAJ RANI",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "5",
-                "Name": "SHINGATE Sonali Vishnu",
-                "NameS": "SHINGATE Sonali Vishnu",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "3",
-                "Name": "PUSHPA",
-                "NameS": "PUSHPA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "11",
-                "Name": "DEVI Bhavna",
-                "NameS": "DEVI Bhavna",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "10",
-                "Name": "RITU",
-                "NameS": "RITU",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "14",
-                "Name": "DEVI Sanju",
-                "NameS": "DEVI Sanju",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "7",
-                "Name": "NEGI Ritu",
-                "NameS": "NEGI Ritu",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "2",
-                "Name": "KUMARI Manisha",
-                "NameS": "KUMARI Manisha",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "12",
-                "Name": "ROY Pinki",
-                "NameS": "ROY Pinki",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "1",
-                "Name": "JYOTI",
-                "NameS": "JYOTI",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "4",
-                "Name": "NIKITA",
-                "NameS": "NIKITA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              }
-            ],
-            "Splits": [
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "32",
-                "Extensions": []
-              },
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "18",
-                "Extensions": []
-              }
-            ]
-          }
-        },
-        {
-          "Orgs": [
-            "IND",
-            "NEP"
-          ],
-          "IsPhase": false,
-          "ResCode": "W.TEAM7-------------.SFNL.000100--",
-          "ShowLink": true,
-          "Disc": "KAB",
-          "DiscDesc": "Kabaddi",
-          "Key": "W.TEAM7-------------.SFNL.000100--",
-          "isH2H": true,
-          "Type": "T",
-          "Medal": "2",
-          "Status": "OFFICIAL",
-          "StatusDesc": "Official",
-          "DateTimeRaw": "2026-09-25T13:00:00+09:00",
-          "HideStartDate": false,
-          "Estimated": false,
-          "EstText": "",
-          "HideLocation": false,
-          "Venue": "TCG",
-          "VenueDesc": "Tokai Citizen Gymnasium",
-          "VenueDescS": "Tokai Citizen Gymnasium",
-          "Loc": "KA2",
-          "LocDesc": "TCG Crt 2",
-          "LocDescS": "TCG Crt 2",
-          "Event": "W.TEAM7-------------",
-          "EventDesc": "Women's Team",
-          "Phase": "W.TEAM7-------------.SFNL",
-          "PhaseOrder": 15,
-          "PhaseDesc": "Women's Team Semifinals",
-          "PhaseDescS": "Women's Team Semifinals",
-          "PhaseDescA": "Semifinals",
-          "UnitDesc": "",
-          "UnitDescS": "",
-          "UnitDescA": "",
-          "EndDateTimeRaw": "2026-09-25T13:50:46+09:00",
-          "ActualEndDateTimeRaw": "2026-09-25T13:50:46+09:00",
-          "UnitNum": "33",
-          "IsLive": false,
-          "ShowResults": true,
-          "Periods": [
-            {
-              "Order": 1,
-              "Desc": "1st Half",
-              "DescS": "1H"
-            },
-            {
-              "Order": 2,
-              "Desc": "2nd Half",
-              "DescS": "2H"
-            }
-          ],
-          "Home": {
-            "Org": "IND",
-            "Reg": "KABWTEAM7------IND01",
-            "Name": "India",
-            "Result": "48",
-            "Winner": true,
-            "HasData": true,
-            "NameS": "India",
-            "Medal": "",
-            "Members": [
-              {
-                "Org": "IND",
-                "Bib": "9",
-                "Name": "POOJA",
-                "NameS": "POOJA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "8",
-                "Name": "RAJ RANI",
-                "NameS": "RAJ RANI",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "5",
-                "Name": "SHINGATE Sonali Vishnu",
-                "NameS": "SHINGATE Sonali Vishnu",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "3",
-                "Name": "PUSHPA",
-                "NameS": "PUSHPA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "11",
-                "Name": "DEVI Bhavna",
-                "NameS": "DEVI Bhavna",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "10",
-                "Name": "RITU",
-                "NameS": "RITU",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "14",
-                "Name": "DEVI Sanju",
-                "NameS": "DEVI Sanju",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "7",
-                "Name": "NEGI Ritu",
-                "NameS": "NEGI Ritu",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "2",
-                "Name": "KUMARI Manisha",
-                "NameS": "KUMARI Manisha",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "12",
-                "Name": "ROY Pinki",
-                "NameS": "ROY Pinki",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "1",
-                "Name": "JYOTI",
-                "NameS": "JYOTI",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "4",
-                "Name": "NIKITA",
-                "NameS": "NIKITA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              }
-            ],
-            "Splits": [
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "31",
-                "Extensions": []
-              },
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "17",
-                "Extensions": []
-              }
-            ]
-          },
-          "Away": {
-            "Org": "NEP",
-            "Reg": "KABWTEAM7------NEP01",
-            "Name": "Nepal",
-            "Result": "24",
-            "Winner": false,
-            "HasData": true,
-            "NameS": "Nepal",
-            "Medal": "ME_BRONZE",
-            "Members": [
-              {
-                "Org": "NEP",
-                "Bib": "3",
-                "Name": "RAJBANSHI Menuka Kumari",
-                "NameS": "RAJBANSHI Menuka Kumari",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "8",
-                "Name": "NEPALI Mina",
-                "NameS": "NEPALI Mina",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "6",
-                "Name": "YADAV Asma",
-                "NameS": "YADAV Asma",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "1",
-                "Name": "PARAJULI Nanu Maya",
-                "NameS": "PARAJULI Nanu Maya",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "5",
-                "Name": "PANDIT CHHETRI Binita",
-                "NameS": "PANDIT CHHETRI Binita",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "2",
-                "Name": "JOSHI Manisha",
-                "NameS": "JOSHI Manisha",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "9",
-                "Name": "CHAUDHARY Rabina",
-                "NameS": "CHAUDHARY Rabina",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "10",
-                "Name": "THARU Srijana Kumari",
-                "NameS": "THARU Srijana Kumari",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "12",
-                "Name": "GHIMIRE Ganga",
-                "NameS": "GHIMIRE Ganga",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "7",
-                "Name": "BIST Manmati",
-                "NameS": "BIST Manmati",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "4",
-                "Name": "BADU Jayanti",
-                "NameS": "BADU Jayanti",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "NEP",
-                "Bib": "11",
-                "Name": "KHATRI Khim Maya",
-                "NameS": "KHATRI Khim Maya",
-                "FuncDesc": "",
-                "PosDesc": ""
-              }
-            ],
-            "Splits": [
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "17",
-                "Extensions": []
-              },
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "7",
-                "Extensions": []
-              }
-            ]
-          }
-        },
-        {
-          "Orgs": [
-            "IND",
-            "IRI"
-          ],
-          "IsPhase": false,
-          "ResCode": "W.TEAM7-------------.FNL-.000100--",
-          "ShowLink": true,
-          "Disc": "KAB",
-          "DiscDesc": "Kabaddi",
-          "Key": "W.TEAM7-------------.FNL-.000100--",
-          "isH2H": true,
-          "Type": "T",
-          "Medal": "1",
-          "Status": "OFFICIAL",
-          "StatusDesc": "Official",
-          "DateTimeRaw": "2026-09-26T13:00:00+09:00",
-          "HideStartDate": false,
-          "Estimated": false,
-          "EstText": "",
-          "HideLocation": false,
-          "Venue": "TCG",
-          "VenueDesc": "Tokai Citizen Gymnasium",
-          "VenueDescS": "Tokai Citizen Gymnasium",
-          "Loc": "KA2",
-          "LocDesc": "TCG Crt 2",
-          "LocDescS": "TCG Crt 2",
-          "Event": "W.TEAM7-------------",
-          "EventDesc": "Women's Team",
-          "Phase": "W.TEAM7-------------.FNL-",
-          "PhaseOrder": 16,
-          "PhaseDesc": "Women's Team Final",
-          "PhaseDescS": "Women's Team Final",
-          "PhaseDescA": "Final",
-          "UnitDesc": "Gold Medal Match",
-          "UnitDescS": "Gold Medal Match",
-          "UnitDescA": "Gold Medal Match",
-          "EndDateTimeRaw": "2026-09-26T14:04:15+09:00",
-          "ActualEndDateTimeRaw": "2026-09-26T14:04:15+09:00",
-          "UnitNum": "37",
-          "IsLive": false,
-          "ShowResults": true,
-          "Periods": [
-            {
-              "Order": 1,
-              "Desc": "1st Half",
-              "DescS": "1H"
-            },
-            {
-              "Order": 2,
-              "Desc": "2nd Half",
-              "DescS": "2H"
-            }
-          ],
-          "Home": {
-            "Org": "IND",
-            "Reg": "KABWTEAM7------IND01",
-            "Name": "India",
-            "Result": "37",
-            "Winner": true,
-            "HasData": true,
-            "NameS": "India",
-            "Medal": "ME_GOLD",
-            "Members": [
-              {
-                "Org": "IND",
-                "Bib": "9",
-                "Name": "POOJA",
-                "NameS": "POOJA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "8",
-                "Name": "RAJ RANI",
-                "NameS": "RAJ RANI",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "5",
-                "Name": "SHINGATE Sonali Vishnu",
-                "NameS": "SHINGATE Sonali Vishnu",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "3",
-                "Name": "PUSHPA",
-                "NameS": "PUSHPA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "11",
-                "Name": "DEVI Bhavna",
-                "NameS": "DEVI Bhavna",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "10",
-                "Name": "RITU",
-                "NameS": "RITU",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "14",
-                "Name": "DEVI Sanju",
-                "NameS": "DEVI Sanju",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "7",
-                "Name": "NEGI Ritu",
-                "NameS": "NEGI Ritu",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "2",
-                "Name": "KUMARI Manisha",
-                "NameS": "KUMARI Manisha",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "12",
-                "Name": "ROY Pinki",
-                "NameS": "ROY Pinki",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "1",
-                "Name": "JYOTI",
-                "NameS": "JYOTI",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IND",
-                "Bib": "4",
-                "Name": "NIKITA",
-                "NameS": "NIKITA",
-                "FuncDesc": "",
-                "PosDesc": ""
-              }
-            ],
-            "Splits": [
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "22",
-                "Extensions": []
-              },
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "15",
-                "Extensions": []
-              }
-            ]
-          },
-          "Away": {
-            "Org": "IRI",
-            "Reg": "KABWTEAM7------IRI01",
-            "Name": "Islamic Republic of Iran",
-            "Result": "34",
-            "Winner": false,
-            "HasData": true,
-            "NameS": "IR Iran",
-            "Medal": "ME_SILVER",
-            "Members": [
-              {
-                "Org": "IRI",
-                "Bib": "12",
-                "Name": "MALMALI Zakiyeh",
-                "NameS": "MALMALI Zakiyeh",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "5",
-                "Name": "FARAMARZI ZOBARAN Aynaz",
-                "NameS": "FARAMARZI ZOBARAN Aynaz",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "2",
-                "Name": "MADADI Atena",
-                "NameS": "MADADI Atena",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "3",
-                "Name": "KARIMI Zahra",
-                "NameS": "KARIMI Zahra",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "11",
-                "Name": "KOLAGAR Fereshte",
-                "NameS": "KOLAGAR Fereshte",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "9",
-                "Name": "YARISARAROUDI Sahar",
-                "NameS": "YARISARAROUDI Sahar",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "10",
-                "Name": "LAKALIABADI Mahtab",
-                "NameS": "LAKALIABADI Mahtab",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "1",
-                "Name": "ASTEREKI Zahra",
-                "NameS": "ASTEREKI Zahra",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "4",
-                "Name": "NAEIMI MARANI Saniya",
-                "NameS": "NAEIMI MARANI Saniya",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "7",
-                "Name": "VARASTEHKALMARZI Hadiseh",
-                "NameS": "VARASTEHKALMARZI Hadiseh",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "6",
-                "Name": "JALALVAND Nikta",
-                "NameS": "JALALVAND Nikta",
-                "FuncDesc": "",
-                "PosDesc": ""
-              },
-              {
-                "Org": "IRI",
-                "Bib": "8",
-                "Name": "KHODABANDEHLOO Zahra",
-                "NameS": "KHODABANDEHLOO Zahra",
-                "FuncDesc": "",
-                "PosDesc": ""
-              }
-            ],
-            "Splits": [
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "16",
-                "Extensions": []
-              },
-              {
-                "Rk": "",
-                "RkPo": 0,
-                "Res": "18",
-                "Extensions": []
-              }
-            ]
-          }
-        }
-      ],
-      "historical": null
-    }
+    "bio_data": null
   },
   {
     "reg": "3867845",
@@ -548280,10 +546737,10 @@
           "Desc": "Women -78kg",
           "DescS": "Women -78kg",
           "isMember": false,
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -550286,10 +548743,10 @@
           "TeamReg": "SALM49ER-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -551366,10 +549823,10 @@
           "Desc": "Women's Skiff",
           "DescS": "Women's Skiff",
           "isMember": false,
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -552392,10 +550849,10 @@
           "TeamReg": "SALW49ERFX-----IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -553601,10 +552058,10 @@
           "TeamReg": "SHOWTRTW-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "328",
-          "Medal": "ME_SILVER"
+          "Result": "328"
         },
         {
           "Disc": "SHO",
@@ -553628,10 +552085,10 @@
           "TeamReg": "SHOXTRMT-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "34",
-          "Medal": "ME_GOLD"
+          "Result": "34"
         }
       ],
       "schedule": [
@@ -555055,10 +553512,10 @@
           "Desc": "Trap Mixed Team",
           "DescS": "Trap Mixed Team",
           "isMember": false,
-          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "34"
+          "Result": "34",
+          "Medal": "ME_GOLD"
         }
       ],
       "schedule": [
@@ -555787,10 +554244,10 @@
           "TeamReg": "SHOMARTM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "1890.1"
+          "Result": "1890.1",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -557050,10 +555507,10 @@
           "TeamReg": "SHOMR3PTM------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "1762",
-          "Medal": "ME_SILVER"
+          "Result": "1762"
         }
       ],
       "schedule": [
@@ -559320,10 +557777,10 @@
           "Desc": "25m Pistol Women Individual",
           "DescS": "25m Pistol Women Individual",
           "isMember": false,
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "38"
+          "Result": "38",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -559843,10 +558300,10 @@
           "Desc": "Trap Women Team",
           "DescS": "Trap Women Team",
           "isMember": false,
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": "328"
+          "Result": "328",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -562638,10 +561095,10 @@
           "Desc": "Skeet Women Team",
           "DescS": "Skeet Women Team",
           "isMember": false,
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "331",
-          "Medal": "ME_BRONZE"
+          "Result": "331"
         }
       ],
       "schedule": [
@@ -564541,10 +562998,10 @@
           "Desc": "Men's Quadrant",
           "DescS": "Men's Quadrant",
           "isMember": false,
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -565434,10 +563891,10 @@
           "TeamReg": "SPKMQUADRANT---IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         },
         {
           "Disc": "SPK",
@@ -572874,10 +571331,10 @@
           "TeamReg": "SPKMQUADRANT---IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         },
         {
           "Disc": "SPK",
@@ -574734,10 +573191,10 @@
           "TeamReg": "SPKMQUADRANT---IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         },
         {
           "Disc": "SPK",
@@ -585770,10 +584227,10 @@
           "TeamReg": "SQUMTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -588537,10 +586994,10 @@
           "TeamReg": "SQUXDOUBLES----IND02",
           "TeamOrg": "IND",
           "TeamName": "CHINAPPA J. /SENTHILKUMAR V.",
-          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_BRONZE"
         }
       ],
       "schedule": [
@@ -595342,10 +593799,10 @@
           "TeamReg": "SQUWTEAM-------IND01",
           "TeamOrg": "IND",
           "TeamName": "India",
+          "Medal": "ME_BRONZE",
           "Rank": "3",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_BRONZE"
+          "Result": ""
         }
       ],
       "schedule": [
@@ -629752,10 +628209,10 @@
           "Desc": "Men's Greco-Roman 97kg",
           "DescS": "Men's Greco-Roman 97kg",
           "isMember": false,
-          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "",
-          "Result": ""
+          "Result": "",
+          "Medal": "ME_SILVER"
         }
       ],
       "schedule": [
@@ -636734,10 +635191,10 @@
           "Desc": "Women's 60kg",
           "DescS": "Women's 60kg",
           "isMember": false,
+          "Medal": "ME_SILVER",
           "Rank": "2",
           "IRM": "OK",
-          "Result": "",
-          "Medal": "ME_SILVER"
+          "Result": ""
         }
       ],
       "schedule": [
