@@ -503713,10 +503713,10 @@
           "Desc": "Men's Team",
           "DescS": "Men's Team",
           "isMember": false,
+          "Medal": "ME_GOLD",
           "Rank": "1",
           "IRM": "",
-          "Result": "",
-          "Medal": "ME_GOLD"
+          "Result": ""
         }
       ],
       "schedule": [
